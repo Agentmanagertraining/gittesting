@@ -2,3 +2,6 @@
 
 Checking the git pull functionality
 
+check repoupdate agent
+
+
